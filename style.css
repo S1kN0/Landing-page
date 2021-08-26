@@ -1,7 +1,7 @@
 @charset "uft-8";
 /*CSS Documents*/
 body{
-background: color #f6f5f5;;
+background: color #f6f5f5;
 margin:0px;
 padding:0px;
 }
@@ -22,11 +22,27 @@ justify-content: space-between;
 align-items:center;
 height: 60px;
 background-color:#FFFFFF;
+box-shadow: 2px 2px 12px rgba( 0,0,0,0.2);
+
+}
+
+nav ul {
+display:flex;
+}
+nav ul li a{
+margin: 30px;
+font-family: myriad pro regular;
+color: #505050;
+font-size: 15px;
+font-weight: 700;
+
+
+
 
 }
 
 
-
+}
 
 
 
