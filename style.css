@@ -1,0 +1,40 @@
+@charset "uft-8";
+/*CSS Documents*/
+body{
+background: color #f6f5f5;;
+margin:0px;
+padding:0px;
+}
+ul{
+list-style-type: style none;
+}
+a{
+text-decoration: none;
+}
+section{
+width: 100%;
+height: 95vh;
+}
+
+nav{
+display:flex;
+justify-content: space-between;
+align-items:center;
+height: 60px;
+background-color:#FFFFFF;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
